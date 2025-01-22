@@ -5,8 +5,14 @@ Sou formado em **Direito** e atualmente estou explorando o mundo da **programaç
 
 Estou aprendendo sobre **Desenvolvimento Web**, **Automação** e **Análise de Dados**. Estou sempre em busca de novos desafios e oportunidades para crescer na área de TI.
 
-## Principal Projeto
+## Projetos
+
+**Site:**
 - [Como Posso te Ajudar?](https://hc-khaki.vercel.app/): Meu principal projeto; Já está em uso e em constante melhoria (inclusive preciso de ajuda na organização do projeto - Separar os CSS e STYLES do HTML)
+
+**Extensão Google:**
+- [Notas Adesivas:](https://chromewebstore.google.com/detail/notas-adesivas/oklgdplcbmgephnlmnbcnifhkedgjdbe?authuser=0&hl=pt-BR) Esta extensão permite criar notas adesivas personalizáveis em qualquer página da web. Com um clique direito, é possível adicionar notas fixas, sem possibilidade de edição, que podem ser movidas livremente pela tela. Cada nota possui um botão para exclusão, facilitando a organização e gestão das informações. Ideal para lembretes práticos e visíveis.
+- [Busca de Processos - MPMG & TJMG:](https://chromewebstore.google.com/detail/busca-de-processos-mpmg-t/ekhaiapibhbbnnfnmbjhhfdgdinlhcbl?authuser=0&hl=pt-BR) A extensão "Busca de Processos" permite consultar rapidamente processos nos sites do MPMG e TJMG, acessando-os diretamente pelo menu de contexto do botão direito do mouse. Basta selecionar o número do processo na página e clicar com o botão direito para abrir os detalhes no site correspondente.
 
 ## Tecnologias
 - 💻 **Front-end**: HTML, CSS, JavaScript
