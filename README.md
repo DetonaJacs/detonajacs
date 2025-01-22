@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, sou Jacson 👋
 
-<!--
-**DetonaJacs/detonajacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Sou formado em **Direito** e atualmente estou explorando o mundo da **programação**. Tenho interesse em desenvolver projetos que melhorem a gestão de informações e processos, utilizando minhas habilidades tanto jurídicas quanto em tecnologia. 
 
-Here are some ideas to get you started:
+Estou aprendendo sobre **Desenvolvimento Web**, **Automação** e **Análise de Dados**. Estou sempre em busca de novos desafios e oportunidades para crescer na área de TI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Principal Projeto
+- [HC]([https://hc-khaki.vercel.app/): Meu principal projeto; Já está em uso e em constante melhoria (inclusive preciso de ajuda na organização do projeto - Separar os CSS e STYLES do HTML)
+
+## Tecnologias
+- 💻 **Front-end**: HTML, CSS, JavaScript
+- 📊 **Ferramentas de dados**: Excel
+
+## Como me encontrar
+- **LinkedIn**: [Jacson Costa](https://www.linkedin.com/in/jcnneves/)
+
+
+Estou sempre aberto para conversar sobre novos projetos ou oportunidades de colaboração!
