@@ -16,6 +16,7 @@ Estou aprendendo sobre **Desenvolvimento Web**, **Automação** e **Análise de 
 
 ## Tecnologias
 - 💻 **Front-end**: HTML, CSS, JavaScript
+- ⚙️ **back-end**: Um tiquinho de JavaScript também
 - 📊 **Ferramentas de dados**: Excel
 
 ## Como me encontrar
