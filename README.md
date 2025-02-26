@@ -21,7 +21,7 @@ Estou aprendendo sobre **Desenvolvimento Web**, **Automação** e **Análise de 
 
 ## Como me encontrar
 - **LinkedIn**: [Jacson Costa](https://www.linkedin.com/in/jcnneves/)
-<img src="" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+- python r c c++ sklearn pandas numpy mysql jupyter
 
 
 Estou sempre aberto para conversar sobre novos projetos ou oportunidades de colaboração!
