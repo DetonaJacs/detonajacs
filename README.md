@@ -1,7 +1,7 @@
 # 🚀 Olá, sou Jacson 👋
 
 <div align="center">
-  <img src="https://tenor.com/pt-BR/view/hello-world-animation-hello-coding-gif-1378121840400141809" width="300px" alt="GIF de boas-vindas">
+  <img src="https://tenor.com/search/hello+world-gifs" width="300px" alt="GIF de boas-vindas">
 </div>
 
 ---
