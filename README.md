@@ -15,6 +15,11 @@ Estou aprendendo sobre **Desenvolvimento Web**, **Automação** e **Análise de 
 - [Busca de Processos - MPMG & TJMG:](https://chromewebstore.google.com/detail/busca-de-processos-mpmg-t/ekhaiapibhbbnnfnmbjhhfdgdinlhcbl?authuser=0&hl=pt-BR) A extensão "Busca de Processos" permite consultar rapidamente processos nos sites do MPMG e TJMG, acessando-os diretamente pelo menu de contexto do botão direito do mouse. Basta selecionar o número do processo na página e clicar com o botão direito para abrir os detalhes no site correspondente.
 
 ## Tecnologias
+
+
+| [<img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=DetonaJacs&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width=215><br><sub></sub>](https://github.com/gabrielle-ribeiro) |  [<img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DetonaJacs&layout=compact&langs_count=7&theme=radical" width=215><br><sub></sub>](https://github.com/rcaneppele) |
+| :---: | :---: |
+
 - 💻 **Front-end**: HTML, CSS, JavaScript
 - ⚙️ **back-end**: Um tiquinho de JavaScript também
 - 📊 **Ferramentas de dados**: Excel
