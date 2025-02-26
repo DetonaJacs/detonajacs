@@ -21,8 +21,11 @@ Estou aprendendo sobre **Desenvolvimento Web**, **Automação** e **Análise de 
   <img width="450px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DetonaJacs">
 </div>
 
+
 ## Como me encontrar
-- **LinkedIn**: [Jacson Costa](https://www.linkedin.com/in/jcnneves/)
+
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jacson%20Costa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jcnneves/)
+
 
 
 
