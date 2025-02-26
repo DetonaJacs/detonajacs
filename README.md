@@ -21,11 +21,6 @@ Estou aprendendo sobre **Desenvolvimento Web**, **Automação** e **Análise de 
   <img width="450px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DetonaJacs">
 </div>
 
-
-- 💻 **Front-end**: HTML, CSS, JavaScript
-- ⚙️ **back-end**: Um tiquinho de JavaScript também
-- 📊 **Ferramentas de dados**: Excel
-
 ## Como me encontrar
 - **LinkedIn**: [Jacson Costa](https://www.linkedin.com/in/jcnneves/)
 
