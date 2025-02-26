@@ -6,7 +6,7 @@
 
 ---
 
-## Sobre Mim
+## 🧑‍💻 Sobre Mim
 
 Sou formado em **Direito** e atualmente estou explorando o mundo da **programação**. Tenho interesse em desenvolver projetos que melhorem a gestão de informações e processos, utilizando minhas habilidades tanto jurídicas quanto em tecnologia. 
 
@@ -19,7 +19,7 @@ Sou formado em **Direito** e atualmente estou explorando o mundo da **programaç
 
 ---
 
-## Projetos
+## 🛠️ Projetos
 
 ### [Como Posso te Ajudar?](https://contratoseweb.com/)
 Meu principal projeto; já está em uso e em constante melhoria (inclusive preciso de ajuda na organização do projeto - Separar os CSS e SCRIPT do HTML). 
@@ -28,7 +28,7 @@ O site "Como posso te ajudar?" facilita a análise de vínculos e oferece atalho
 
 ---
 
-## Extensões Google: (USEM E ME DÊEM UM FEEDBACK)
+## 🧩 Extensões Google: (USEM E ME DÊEM UM FEEDBACK)
 
 <div align="center">
   <table>
@@ -55,20 +55,16 @@ O site "Como posso te ajudar?" facilita a análise de vínculos e oferece atalho
 
 ---
 
-## Tecnologias
+## 🛠️ Tecnologias
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DetonaJacs&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DetonaJacs&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas">
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200px" alt="GIF de tecnologia">
+  <img src="https://github-readme-stats.vercel.app/api?username=DetonaJacs&show_icons=true&hide_border=true&bg_color=ffffff&text_color=000000&icon_color=000000&title_color=000000" alt="Estatísticas do GitHub" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DetonaJacs&layout=compact&hide_border=true&bg_color=ffffff&text_color=000000&icon_color=000000&title_color=000000" alt="Linguagens mais usadas" width="400">
 </div>
 
 ---
 
-## Como me encontrar
+## 🌐 Como me encontrar
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jcnneves/" target="_blank">
