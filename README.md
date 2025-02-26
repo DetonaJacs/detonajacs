@@ -10,9 +10,26 @@ Estou aprendendo sobre **Desenvolvimento Web**, **Automação** e **Análise de 
 **Site:**
 - [Como Posso te Ajudar?](https://contratoseweb.com/): Meu principal projeto; Já está em uso e em constante melhoria (inclusive preciso de ajuda na organização do projeto - Separar os CSS e SCRIPT do HTML). O site "Como posso te ajudar?" facilita a análise de vínculos e oferece atalhos para dados de advogados relacionados a processos. Além disso, ele extrai números de processos a partir de uma cadeia de texto, otimizando a consulta e organização das informações. Já utilizado no setor em que você trabalha, o site é uma ferramenta prática para agilizar tarefas e acessar dados relevantes de forma eficiente.
 
-**Extensões Google: (USEM E ME DÊEM UM FEEDBACK)**
-- [Notas Adesivas:](https://chromewebstore.google.com/detail/notas-adesivas/oklgdplcbmgephnlmnbcnifhkedgjdbe?authuser=0&hl=pt-BR) Esta extensão permite criar notas adesivas personalizáveis em qualquer página da web. Com um clique direito, é possível adicionar notas fixas, sem possibilidade de edição, que podem ser movidas livremente pela tela. Cada nota possui um botão para exclusão, facilitando a organização e gestão das informações. Ideal para lembretes práticos e visíveis.
-- [Busca de Processos - MPMG & TJMG:](https://chromewebstore.google.com/detail/busca-de-processos-mpmg-t/ekhaiapibhbbnnfnmbjhhfdgdinlhcbl?authuser=0&hl=pt-BR) A extensão "Busca de Processos" permite consultar rapidamente processos nos sites do MPMG e TJMG, acessando-os diretamente pelo menu de contexto do botão direito do mouse. Basta selecionar o número do processo na página e clicar com o botão direito para abrir os detalhes no site correspondente.
+## Extensões Google: (USEM E ME DÊEM UM FEEDBACK)
+
+<div align="center">
+  <a href="https://chromewebstore.google.com/detail/notas-adesivas/oklgdplcbmgephnlmnbcnifhkedgjdbe?authuser=0&hl=pt-BR" target="_blank">
+    <img src="https://via.placeholder.com/120" alt="Notas Adesivas" width="120px">
+    <br>
+    <strong>Notas Adesivas</strong>
+  </a>
+  <p>Crie notas adesivas personalizáveis em qualquer página da web. Ideal para lembretes rápidos e organizados.</p>
+</div>
+
+<div align="center">
+  <a href="https://chromewebstore.google.com/detail/busca-de-processos-mpmg-t/ekhaiapibhbbnnfnmbjhhfdgdinlhcbl?authuser=0&hl=pt-BR" target="_blank">
+    <img src="https://via.placeholder.com/120" alt="Busca de Processos" width="120px">
+    <br>
+    <strong>Busca de Processos - MPMG & TJMG</strong>
+  </a>
+  <p>Consulte processos nos sites do MPMG e TJMG diretamente pelo menu de contexto.</p>
+</div>
+
 
 ## Tecnologias
 
