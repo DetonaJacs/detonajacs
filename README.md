@@ -13,22 +13,31 @@ Estou aprendendo sobre **Desenvolvimento Web**, **Automação** e **Análise de 
 ## Extensões Google: (USEM E ME DÊEM UM FEEDBACK)
 
 <div align="center">
-  <a href="https://chromewebstore.google.com/detail/notas-adesivas/oklgdplcbmgephnlmnbcnifhkedgjdbe?authuser=0&hl=pt-BR" target="_blank">
-    <img src="https://via.placeholder.com/120" alt="Notas Adesivas" width="120px">
-    <br>
-    <strong>Notas Adesivas</strong>
-  </a>
-  <p>Crie notas adesivas personalizáveis em qualquer página da web. Ideal para lembretes rápidos e organizados.</p>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://chromewebstore.google.com/detail/notas-adesivas/oklgdplcbmgephnlmnbcnifhkedgjdbe?authuser=0&hl=pt-BR" target="_blank">
+        <img src="https://via.placeholder.com/100" alt="Notas Adesivas" width="100px">
+        <br>
+        <strong>Notas Adesivas</strong>
+      </a>
+      <p>Crie notas adesivas personalizáveis em qualquer página da web. Com um clique direito, adicione notas fixas e mova-as livremente pela tela.</p>
+    </td>
+
+    <td align="center" width="50%">
+      <a href="https://chromewebstore.google.com/detail/busca-de-processos-mpmg-t/ekhaiapibhbbnnfnmbjhhfdgdinlhcbl?authuser=0&hl=pt-BR" target="_blank">
+        <img src="https://via.placeholder.com/100" alt="Busca de Processos" width="100px">
+        <br>
+        <strong>Busca de Processos - MPMG & TJMG</strong>
+      </a>
+      <p>Consulte rapidamente processos nos sites do MPMG e TJMG pelo menu de contexto, apenas selecionando o número do processo.</p>
+    </td>
+  </tr>
+</table>
+
 </div>
 
-<div align="center">
-  <a href="https://chromewebstore.google.com/detail/busca-de-processos-mpmg-t/ekhaiapibhbbnnfnmbjhhfdgdinlhcbl?authuser=0&hl=pt-BR" target="_blank">
-    <img src="https://via.placeholder.com/120" alt="Busca de Processos" width="120px">
-    <br>
-    <strong>Busca de Processos - MPMG & TJMG</strong>
-  </a>
-  <p>Consulte processos nos sites do MPMG e TJMG diretamente pelo menu de contexto.</p>
-</div>
 
 
 ## Tecnologias
