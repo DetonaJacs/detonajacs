@@ -14,7 +14,7 @@ Estou aprendendo sobre **Desenvolvimento Web**, **Automação** e **Análise de 
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="75px">
       <a href="https://chromewebstore.google.com/detail/notas-adesivas/oklgdplcbmgephnlmnbcnifhkedgjdbe?authuser=0&hl=pt-BR" target="_blank">
         <img src="https://lh3.googleusercontent.com/ph8Sot3TQ7OcjveKeCy9ZjCcMhjbxS5eGSzD7lfe8Yki1t6Y7suzNGGzmvUFP5beDccQKderUmShx6SVJveiYljr=s100" alt="Notas Adesivas">
         <br>
@@ -22,7 +22,7 @@ Estou aprendendo sobre **Desenvolvimento Web**, **Automação** e **Análise de 
       </a>
       <p>Crie notas adesivas personalizáveis em qualquer página da web. Com um clique direito, adicione notas fixas e mova-as livremente pela tela.</p>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="75px">
       <a href="https://chromewebstore.google.com/detail/busca-de-processos-mpmg-t/ekhaiapibhbbnnfnmbjhhfdgdinlhcbl?authuser=0&hl=pt-BR" target="_blank">
         <img src="https://lh3.googleusercontent.com/HP6DrUaRxqMlKQcAd8Byup5K0WWcuWjtXF72UraxS40dWwM1RMKz7Ggyg-boGsx3fQh8J4qTldQMswdR5n8WYRk0jw=s100" alt="Busca de Processos">
         <br>
