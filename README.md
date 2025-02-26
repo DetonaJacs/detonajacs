@@ -24,10 +24,8 @@ Estou aprendendo sobre **Desenvolvimento Web**, **Automação** e **Análise de 
 
 ## Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jacson%20Costa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jcnneves/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jacson%20Costa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jcnneves/) 
 [![Gmail](https://img.shields.io/badge/Gmail-jacson311@gmail.com-red?style=flat&logo=gmail)](mailto:jacson311@gmail.com)
-
-
 
 
 
