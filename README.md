@@ -18,7 +18,7 @@ Estou aprendendo sobre **Desenvolvimento Web**, **Automação** e **Análise de 
   <tr>
     <td align="center" width="50%">
       <a href="https://chromewebstore.google.com/detail/notas-adesivas/oklgdplcbmgephnlmnbcnifhkedgjdbe?authuser=0&hl=pt-BR" target="_blank">
-        <img src="https://via.placeholder.com/100" alt="Notas Adesivas" width="100px">
+        <img src="https://lh3.googleusercontent.com/ph8Sot3TQ7OcjveKeCy9ZjCcMhjbxS5eGSzD7lfe8Yki1t6Y7suzNGGzmvUFP5beDccQKderUmShx6SVJveiYljr=s60" alt="Notas Adesivas" width="100px">
         <br>
         <strong>Notas Adesivas</strong>
       </a>
@@ -27,7 +27,7 @@ Estou aprendendo sobre **Desenvolvimento Web**, **Automação** e **Análise de 
 
     <td align="center" width="50%">
       <a href="https://chromewebstore.google.com/detail/busca-de-processos-mpmg-t/ekhaiapibhbbnnfnmbjhhfdgdinlhcbl?authuser=0&hl=pt-BR" target="_blank">
-        <img src="https://via.placeholder.com/100" alt="Busca de Processos" width="100px">
+        <img src="https://lh3.googleusercontent.com/HP6DrUaRxqMlKQcAd8Byup5K0WWcuWjtXF72UraxS40dWwM1RMKz7Ggyg-boGsx3fQh8J4qTldQMswdR5n8WYRk0jw=s60" alt="Busca de Processos" width="100px">
         <br>
         <strong>Busca de Processos - MPMG & TJMG</strong>
       </a>
