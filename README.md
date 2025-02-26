@@ -17,7 +17,7 @@ Estou aprendendo sobre **Desenvolvimento Web**, **Automação** e **Análise de 
 ## Tecnologias
 
 
-| [<img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=DetonaJacs&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width=215><br><sub></sub>](https://github.com/gabrielle-ribeiro) |  [<img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DetonaJacs&layout=compact&langs_count=7&theme=radical" width=215><br><sub></sub>](https://github.com/rcaneppele) |
+| [<img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=DetonaJacs&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width=215><br><sub></sub>]() |  [<img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DetonaJacs&layout=compact&langs_count=7&theme=radical" width=215><br><sub></sub>]() |
 | :---: | :---: |
 
 - 💻 **Front-end**: HTML, CSS, JavaScript
