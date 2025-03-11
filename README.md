@@ -21,7 +21,7 @@ Sou formado em **Direito** e atualmente estou explorando o mundo da **programaç
 ## 🛠️ Projetos
 
 ### [Como Posso te Ajudar?](https://contratoseweb.com/)
-Meu principal projeto; já está em uso e em constante melhoria (inclusive preciso de ajuda na organização do projeto - Separar os CSS e SCRIPT do HTML). 
+Meu principal projeto; já está em uso e em constante melhoria. 
 
 O site "Como posso te ajudar?" facilita a análise de vínculos e oferece atalhos para dados de advogados relacionados a processos. Além disso, ele extrai números de processos a partir de uma cadeia de texto, otimizando a consulta e organização das informações. Já utilizado no setor em que você trabalha, o site é uma ferramenta prática para agilizar tarefas e acessar dados relevantes de forma eficiente.
 
