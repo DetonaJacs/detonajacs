@@ -5,7 +5,7 @@
 # 🚀 Olá, sou Jacson 👋
 ---
 
-## 🧑‍💻 Sobre Mim
+## Sobre Mim
 
 Sou formado em **Direito** e atualmente estou explorando o mundo da **programação**. Tenho interesse em desenvolver projetos que melhorem a gestão de informações e processos, utilizando minhas habilidades tanto jurídicas quanto em tecnologia. 
 
