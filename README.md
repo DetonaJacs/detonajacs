@@ -14,8 +14,6 @@ Sou formado em **Direito** e atualmente estou explorando o mundo da **programaç
 - **Automação**  
 - **Análise de Dados**  
 
-💡 Sempre em busca de novos desafios e oportunidades para crescer na área de TI.
-
 ---
 
 ## 🛠️ Projetos
@@ -78,5 +76,5 @@ O site "Como posso te ajudar?" facilita a análise de vínculos e oferece atalho
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJtaHM0dHZ4MjBkNm0zam50aTBxb3dkOHBzYjZ0dTUzOHo3aHV3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="100px" alt="GIF de encerramento">
-  <p>Estou sempre aberto para conversar sobre novos projetos ou oportunidades de colaboração! 😊</p>
+  <p>Estou sempre aberto para conversar sobre novos projetos ou oportunidades de colaboração! 🤘</p>
 </div>
