@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/DetonaJacs/detonajacs/blob/main/topo_geral_uai_lab.gif" width="100px" alt="GIF de boas-vindas">
+  <img src="https://github.com/DetonaJacs/detonajacs/blob/main/topo_geral_uai_lab.gif" width="100%" alt="GIF de boas-vindas">
 </div>
 
 # 🚀 Olá, sou Jacson 👋
