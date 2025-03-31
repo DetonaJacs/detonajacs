@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/DetonaJacs/detonajacs/blob/main/topo_geral_uai_lab%20(2).gif" width="100%" alt="Imagem UaiLab TJMG - Usada como boas-vindas">
-  UAILab - Unidade Avançada de Inovação em Laboratório
+ CRÉDITO DE IMAGEM: UAILab - Unidade Avançada de Inovação em Laboratório
 </div>
 
 # 🚀 Olá, sou Jacson 👋
